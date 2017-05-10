@@ -24,6 +24,7 @@ To export a board from Trello into Excel using the spreadsheet, carry out the fo
 
 o  In Chrome, this will display the JSON code in the open tab.  Save this as a local file on your computer,
 by right clicking and selecting "Save as..."
+
 o  In Internet Explorer, this will download the JSON export as a local file on your computer.
 
 (2) Using the spreadsheet, click the "Import" button on either worksheet and select your downloaded JSON file
